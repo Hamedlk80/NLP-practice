@@ -1,0 +1,14 @@
+Dear Professor Williams,
+
+I hope this email finds you well. I am writing to request an extension for the NLP assignment (CS-534) due on December 10th.
+
+Due to unexpected technical issues with my local environment (PyCharm + Python 3.11), I couldn't complete the implementation of the transformer model. 
+
+Could you please grant me an extension until December 13th? I have attached my current progress (file: transformer_implementation_v2.py).
+
+Thank you for your understanding.
+
+Sincerely,
+Michael Chen
+Student ID: 2024CS101
+michael.chen@university.edu

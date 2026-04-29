@@ -1,0 +1,29 @@
+Subject: URGENT: Server Down Since 2:00 AM - Ticket #44291
+
+Hi Support Team,
+
+Our production server (IP: 192.168.1.145) has been DOWN for the past 4 hours! 🚨🔥
+
+Error log: 
+"FATAL: Database connection failed. Connection timeout after 30000ms."
+
+We have already tried:
+1. Restarting the server (3 times) ❌
+2. Checking firewall settings ❌
+3. Rolling back the last deployment ❌
+
+Customers are complaining on Twitter (@OurCompany): 
+https://twitter.com/search?q=OurCompany%20down
+
+Please escalate this URGENTLY! Our SLA requires 99.9% uptime, and we're already at 94% this month. 📉
+
+Reach me at:
+- Phone: +44 20 7946 0138
+- Email: oncall.engineer@ourcompany.com
+- Slack: @john_doe
+
+Expected response time: < 30 minutes
+
+Thanks,
+John Doe
+Sr. DevOps Engineer
